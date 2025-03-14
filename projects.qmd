@@ -1,0 +1,21 @@
+---
+toc: false
+listing: 
+  - id: project-listings
+    contents:
+      - "/projects/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: grid
+    fields:
+      - title
+      - image
+      - subtitle
+    categories: false
+---
+
+Statistics Courses Final Projects
+
+::: project-listing
+:::

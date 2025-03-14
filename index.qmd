@@ -1,11 +1,34 @@
 ---
-title: "PersonalWebsite"
+title: "Daniel Jenkins"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/DanielJenkins82
+    - text: Email
+      url: "mailto:danieljenkins8263@gmail.com"
+      icon: inbox-fill
+    - text: Resume
+      href: "resume.pdf"
+toc: false
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me  
+Daniel Jenkins is a 21-year-old statistics enthusiast with a passion for statistical modeling and data analysis. His areas of interest include environmental statistics and sports analytics, where he enjoys uncovering meaningful insights from data. He thrives in team collaborations and is dedicated to making statistical concepts both applicable and understandable to a wide audience.  
 
-```{r}
-1 + 6
-```
+In his leisure time, he enjoys watching basketball and taking walks, appreciating both the strategy of the game and the simplicity of the outdoors.  
+
+## Education  
+
+**University of California, Los Angeles (UCLA)**
+
+Bachelor of Science in Statistics & Data Science  
+Minor in Environmental Systems and Societies 
+*(Expected June 2025)*   
+
+Currently in his third and final year at UCLA, Daniel is completing coursework in statistical modeling, data science, and machine learning. His studies emphasize the application of statistical techniques in environmental research and sports analytics.  
+
+

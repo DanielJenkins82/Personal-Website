@@ -1,13 +1,16 @@
 project:
   type: website
+  resources: 
+    - resume.pdf
 
 website:
-  title: "PersonalWebsite"
+  title: "Daniel Jenkins"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
@@ -17,5 +20,6 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+execute: 
+  freeze: auto
 

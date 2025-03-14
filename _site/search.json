@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PersonalWebsite",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Daniel Jenkins",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 6\n\n[1] 7"
+    "text": "Statistics Courses Final Projects\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStats 101B\n\n\n\n\n\n\n\n\n\n\n\n\n\nStats 101C\n\n\n\n\n\n\n\n\n\n\n\n\n\nStats C161\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,47 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Jenkins",
+    "section": "",
+    "text": "Daniel Jenkins is a 21-year-old statistics enthusiast with a passion for statistical modeling and data analysis. His areas of interest include environmental statistics and sports analytics, where he enjoys uncovering meaningful insights from data. He thrives in team collaborations and is dedicated to making statistical concepts both applicable and understandable to a wide audience.\nIn his leisure time, he enjoys watching basketball and taking walks, appreciating both the strategy of the game and the simplicity of the outdoors."
+  },
+  {
+    "objectID": "projects/project-1.html",
+    "href": "projects/project-1.html",
+    "title": "Stats 101B",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "projects/project-2.html",
+    "href": "projects/project-2.html",
+    "title": "Stats 101C",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "projects/project-3.html",
+    "href": "projects/project-3.html",
+    "title": "Stats C161",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Daniel Jenkins",
+    "section": "",
+    "text": "Daniel Jenkins is a 21-year-old statistics enthusiast with a passion for statistical modeling and data analysis. His areas of interest include environmental statistics and sports analytics, where he enjoys uncovering meaningful insights from data. He thrives in team collaborations and is dedicated to making statistical concepts both applicable and understandable to a wide audience.\nIn his leisure time, he enjoys watching basketball and taking walks, appreciating both the strategy of the game and the simplicity of the outdoors."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniel Jenkins",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles (UCLA)\nBachelor of Science in Statistics & Data Science\nMinor in Environmental Systems and Societies (Expected June 2025)\nCurrently in his third and final year at UCLA, Daniel is completing coursework in statistical modeling, data science, and machine learning. His studies emphasize the application of statistical techniques in environmental research and sports analytics."
   }
 ]

@@ -1,0 +1,15 @@
+{
+  "hash": "c3c32d81d94212e4702f22f31c43c734",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Daniel Jenkins\"\nabout:\n  template: trestles\n  image: profile.jpg\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/DanielJenkins82\n    - text: Email\n      url: \"mailto:danieljenkins8263@gmail.com\"\n      icon: inbox-fill\n    - text: Resume\n      url: \"resume.pdf\"\ntoc: false\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 6\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 7\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
